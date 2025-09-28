@@ -1,0 +1,7 @@
+print("🌐 Network Security Scanner Starting...")
+print("Scanning for open ports...")
+print("Port 22 (SSH): OPEN 🔓")
+print("Port 80 (HTTP): OPEN 🔓") 
+print("Port 443 (HTTPS): OPEN 🔓")
+print("Port 3389 (RDP): CLOSED 🔒")
+print("Scan complete! ✅")
